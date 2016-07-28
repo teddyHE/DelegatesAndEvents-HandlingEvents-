@@ -1,0 +1,9 @@
+C:\Users\Dan\Desktop\Code\After\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\Dan\Desktop\Code\After\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\Dan\Desktop\Code\After\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\Dan\Desktop\Code\After\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Code\After\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\Dan\Desktop\Code\After\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# events delegates and lambdas\Module 3\Code\Before\DelegatesAndEvents(HandlingEvents)\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# events delegates and lambdas\Module 3\Code\Before\DelegatesAndEvents(HandlingEvents)\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# events delegates and lambdas\Module 3\Code\Before\DelegatesAndEvents(HandlingEvents)\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
